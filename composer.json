@@ -1,0 +1,14 @@
+{
+    "name": "ingenious/jquery-history",
+    "description": "Composer fork of balupton/jquery-history",
+    "type": "component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Lupton",
+            "email": "email@baluption.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
